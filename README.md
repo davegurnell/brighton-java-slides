@@ -16,6 +16,14 @@ Full instructions on getting started are provided below.
 For a more representative example of a real application written using Java and Scala, see the
 companion Git repository: https://github.com/davegurnell/brighton-java-sample-app
 
+Intro Slides
+============
+
+At the beginning of the talk, before we got into code, we put up a few Powerpoint slides/
+These are now on the web here:
+
+    https://speakerdeck.com/d6y/an-introduction-to-scala
+
 Viewing the Code
 ================
 
@@ -46,3 +54,16 @@ The project is built using [SBT](http://scala-sbt.org). To view the code in the 
 
  3. Import the code as an Eclipse project by selecting **File menu / Import... / General / Existing
     Projects into Workspace** and selecting the root directory of the repo.
+
+Useful Links
+============
+
+The following links came up in the discussion after the talk:
+
+ - *Scala for the Impatient* is a great Scala book: http://typesafe.com/resources/book/scala-for-the-impatient
+ - *Scala IDE for Eclipse* (Eclipse with Scala baked in): http://scala-ide.org/
+ - *Functional Brighton* meetup group: http://www.meetup.com/Functional-Brighton/
+ - Graham Tackley of The Guardian on *How We (Mostly) Moved from Java to Scala*: http://skillsmatter.com/podcast/scala/how-we-mostly-moved-from-java-to-scala
+ - Richard's book *The Lift Cookbook* (on the Lift web framework): http://shop.oreilly.com/product/0636920029151.do
+ - Tim Perrett comparing Scala web frameworks: http://skillsmatter.com/podcast/scala/scalable-language-web
+ - The current version of Scala is 2.10.2. The roadmap (release schedule) is: https://issues.scala-lang.org/browse/SI?selectedTab=com.atlassian.jira.plugin.system.project%3Aversions-panel
