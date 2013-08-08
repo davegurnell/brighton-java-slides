@@ -1,5 +1,5 @@
-Slides for Intro to Scala Talk from Brighton Java
-=================================================
+Brighton Java: Intro to Scala Slides
+====================================
 
 These slides accompanied the talk *An Introduction to Scala* by Dave Gurnell and Richard Dallaway,
 given at [BrightonJava](http://www.brightonjava.com) on 7th August 2013. The talk abstract follows:
